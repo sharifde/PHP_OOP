@@ -62,15 +62,15 @@
    
   
   // the Fruit class are now not be extends
-  final class Fruit {
-    // some code
-  }
+  // final class Fruit {
+  //   // some code
+  // }
 
   //when Fruit  are extends  intro method will be not  override ....
-  class Fruit {
-    final public function intro() {
-      // some code
-    }
-  }
+  // class Fruit {
+  //   final public function intro() {
+  //     // some code
+  //   }
+  // }
 
 ?>
